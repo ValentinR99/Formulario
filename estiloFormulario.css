@@ -1,0 +1,44 @@
+.contenedor{
+    border: #000000 2px solid;
+    font-family: calibri;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 4px;
+    background-color: #24303c;
+    color: #ffffff;
+    margin: auto;
+}
+.tipografia {
+    color:#ffffff;
+    font-family: calibri;
+   font-size: 35px;
+}
+.botones {
+    background-color: #ffffff;
+    font-family: helvetica;
+    font-size: 100%;
+    margin: auto;
+    border: #ffffff 3px solid;
+    border-radius: 4px;
+    
+}
+.botones:hover {
+    background-color: #0000d6;
+    border-color: #0000d6;
+    color: #ffffff;
+}
+.datos {
+    border-radius: 4px;
+    border: #0000d6 2px solid;
+    width: 90%;
+    padding: 4px;
+}
+.enlaces{
+    text-decoration: none;
+    color: #ffffff;
+}
+.enlaces:hover {
+    text-decoration: underline;
+}
+
